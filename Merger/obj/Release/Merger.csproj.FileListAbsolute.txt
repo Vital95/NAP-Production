@@ -1,0 +1,19 @@
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Release\Merger.exe.config
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Release\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Release\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.Merge.resources
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.csproj.GenerateResource.Cache
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Release\Merger.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Release\Merger.exe.config
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Release\Merger.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Release\Merger.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Release\Merger.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Release\Merger.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Release\Merger.Merge.resources
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Release\Merger.Properties.Resources.resources
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Release\Merger.csproj.GenerateResource.Cache
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Release\Merger.exe.CodeAnalysisLog.xml
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Release\Merger.exe.lastcodeanalysissucceeded

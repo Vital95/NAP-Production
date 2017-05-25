@@ -1,0 +1,45 @@
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.exe.config
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.exe
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.pdb
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.Merge.resources
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.Properties.Resources.resources
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.csproj.GenerateResource.Cache
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.exe
+C:\Users\Vitalii_Shevchuk\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.exe.config
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.Merge.resources
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\obj\Debug\Merger.csproj.GenerateResource.Cache
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-17\Merger 1\Merger\Merger\bin\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\bin\Debug\Merger.exe.config
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\bin\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\bin\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.Merge.resources
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.csproj.GenerateResource.Cache
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-23\Merger 1\Merger\Merger\obj\Debug\Merger.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Debug\Merger.exe.config
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Debug\Merger.exe
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\bin\Debug\Merger.pdb
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.Merge.resources
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\2016-09-27\Merger 1\Merger\Merger\obj\Debug\Merger.csproj.GenerateResource.Cache
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Debug\Merger.exe.config
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Debug\Merger.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\bin\Debug\Merger.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.csprojResolveAssemblyReference.cache
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.Merge.resources
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.Properties.Resources.resources
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\Merger v.3+\Merger 1\Merger\Merger\obj\Debug\Merger.csproj.GenerateResource.Cache
